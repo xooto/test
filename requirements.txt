@@ -1,6 +1,6 @@
 Django==3.0.5
-django-heroku
 gunicorn
+django-heroku
 pytube3
 opencv-python-headless
 ffmpeg-python
