@@ -1,1 +1,1 @@
-web: gunicorn loadVideo.wsgi
+web: gunicorn loadVideo.wsgi --log-file -
