@@ -5,3 +5,4 @@ pytube3
 opencv-python-headless
 ffmpeg-python
 requests
+whitenoise
